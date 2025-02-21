@@ -1,52 +1,60 @@
-# login_register
-It for CRUD app Log in and Register page only
-# Tesfalegn Petros
-## _Turorial Login Register CRUD Laravel 10_
+#Bed_reservation
+A CRUD application for managing bed reservations.
 
-## Features
+#Tesfalegn Petros
+##Tutorial Bed Reservation CRUD Laravel 10
+      ###Features
+Reserve Bed
 
-- Login User
-- Logout User
-- Register User
-- Validate email
-- CRUD Laravel 10
-- Validation
-- Sweat Alert
-- Datatable
-- Javascript Validation
-- FontAwesome 6
+Cancel Reservation
 
-## Required
+View Available Beds
 
-- Laravel 10
-- PHP newer version
-- Composer
-- Datatable
-- Sweetalert
-- Javascript
-- FontAwesome 6
-- Server Xampp/Laragon
+Manage Reservations
 
-## Installation
+CRUD Laravel 10
 
-Download or clone source code <br>
-create database laravel
+Validation
 
-Install the dependencies and start the server.
+SweetAlert Notifications
 
-run composer update <br>
-run php artisan migrate:fresh <br>
-run php artisan serve <br>
+Datatable for Listings
 
-open link at your browser
-http://127.0.0.1:8000
+JavaScript Validation
 
-## Demo Link Githube
-https://github.com/Tesfalegnp/login_register.git
+FontAwesome 6 Icons
 
-## Licensed
+    ###Required
+Laravel 10
 
-Tesfalegn Petros
+PHP (latest version)
 
-**Free for learn !**
+Composer
 
+Datatable
+
+SweetAlert
+
+JavaScript
+
+FontAwesome 6
+
+Server (XAMPP/Laragon)
+
+  ##Installation
+Download or clone the source code. Create a database named bed_reservation.
+
+Install the dependencies and start the server:
+
+composer update
+php artisan migrate:fresh
+php artisan serve
+Open the link in your browser: http://127.0.0.1:8000
+
+  ##Demo Link GitHub
+https://github.com/Tesfalegnp/bed_reservation.git
+
+License
+####Tesfalegn Petros
+
+Free for learning!
