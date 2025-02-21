@@ -1,60 +1,41 @@
-#Bed_reservation
+# bed_reservation
 A CRUD application for managing bed reservations.
 
-#Tesfalegn Petros
-##Tutorial Bed Reservation CRUD Laravel 10
-      ###Features
-Reserve Bed
+# Tesfalegn Petros
+## _Bed Reservation CRUD System - Laravel 10_
 
-Cancel Reservation
+## Features
 
-View Available Beds
+- User Login
+- User Logout
+- User Registration
+- Bed Reservation Management
+- Email Validation
+- CRUD Laravel 10
+- Validation
+- SweetAlert Notifications
+- Datatable Integration
+- JavaScript Validation
+- FontAwesome 6 Icons
 
-Manage Reservations
+## Requirements
 
-CRUD Laravel 10
+- Laravel 10
+- PHP (latest version recommended)
+- Composer
+- Datatable
+- SweetAlert
+- JavaScript
+- FontAwesome 6
+- Server (XAMPP/Laragon)
 
-Validation
+## Installation
 
-SweetAlert Notifications
+1. Download or clone the source code.  
+2. Create a database named `laravel`.  
+3. Install dependencies and start the server:
 
-Datatable for Listings
-
-JavaScript Validation
-
-FontAwesome 6 Icons
-
-    ###Required
-Laravel 10
-
-PHP (latest version)
-
-Composer
-
-Datatable
-
-SweetAlert
-
-JavaScript
-
-FontAwesome 6
-
-Server (XAMPP/Laragon)
-
-  ##Installation
-Download or clone the source code. Create a database named bed_reservation.
-
-Install the dependencies and start the server:
-
+```sh
 composer update
 php artisan migrate:fresh
 php artisan serve
-Open the link in your browser: http://127.0.0.1:8000
-
-  ##Demo Link GitHub
-https://github.com/Tesfalegnp/bed_reservation.git
-
-License
-####Tesfalegn Petros
-
-Free for learning!
