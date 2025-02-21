@@ -39,3 +39,12 @@ A CRUD application for managing bed reservations.
 composer update
 php artisan migrate:fresh
 php artisan serve
+4. Open the link in your browser:
+http://127.0.0.1:8000
+## Demo GitHub Link
+GitHub Repository
+
+License
+Tesfalegn Petros
+
+Free for learning!
